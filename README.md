@@ -5,7 +5,7 @@
 ## :star: Get Started
 ``` bash
 # clone
-git clone https://github.com/NguyenHoangTrungII/BE-CartShop.git
+git clone https://github.com/NhatSinh2002/Cart-BE.git
 ```
 
 ``` bash
